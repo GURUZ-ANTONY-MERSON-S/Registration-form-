@@ -1,0 +1,9 @@
+#form{
+    width: 90%;
+    height: auto;
+    background: #bda8a8;
+    align-content: flex-end;
+    border: 90px;
+    display: inline block;
+    background-image: url(C:\Users\Win10\Desktop\PROJECT\littleg.PNG.jpg);
+}

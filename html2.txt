@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>GURUZ</title>
+ 
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="./assets/favicon.ico" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+
+  <body bgcolor="grey" style="background-image: url(littleg.PNG.jpg);" wid>
+
+    <center><h1>
+        REGISTER
+    </h1></center>
+   
+       <div class="form"></div>
+       <form id="form" >
+       <center >
+        <article>
+      
+            <p>first name <input type="text"  placeholder="Enter first name here"></p>
+    </article>
+
+    <article>
+       <p>last name
+       <input type="text"  placeholder="Enter name here"></p>
+    </article>
+
+      <article>
+       <p>Age    
+      
+       <input type="number"  placeholder="Enter AGE here"></p>
+
+      </article>
+
+
+       <p>Date Of Birth
+       <input type="date"  placeholder="select date here"></p>
+
+       <br>
+       <button input type="submit" >submit</button>
+
+       </center>
+    </form>
+  </body>
+</html>
